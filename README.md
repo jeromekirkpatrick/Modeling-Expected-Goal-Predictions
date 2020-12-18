@@ -1,6 +1,6 @@
 # MODELING EXPECTED GOAL PREDICTIONS
 
-![statsbomb.png](images/statsbomb.png)
+![images/statsbomb.png](images/statsbomb.png)
 
 Statsbomb is a soccer analytics organization that provides data science for teams, media, and gambling. Open dataset on GitHub.
 
