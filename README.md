@@ -257,6 +257,8 @@ To you for listening!
 
 Blogs like:
 
+[https://github.com/twhelan22/python-for-fantasy-football](https://github.com/twhelan22/python-for-fantasy-football)
+
 [https://machinelearningmastery.com/gradient-boosting-with-scikit-learn-xgboost-lightgbm-and-catboost/](https://machinelearningmastery.com/gradient-boosting-with-scikit-learn-xgboost-lightgbm-and-catboost/)
 
 [https://towardsdatascience.com/feature-selection-using-random-forest-26d7b747597f](https://towardsdatascience.com/feature-selection-using-random-forest-26d7b747597f)
