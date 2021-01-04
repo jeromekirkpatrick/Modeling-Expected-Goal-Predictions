@@ -1,6 +1,6 @@
 # MODELING EXPECTED GOAL PREDICTIONS
 
-![images/statsbomb.png](images/statsbomb.png)
+![statsbomb.png](images/statsbomb.png)
 
 Statsbomb is a soccer analytics organization that provides data science for teams, media, and gambling. Open dataset on GitHub.
 
@@ -19,9 +19,7 @@ Statsbomb is a soccer analytics organization that provides data science for team
 
 ## Capstone 2:
 
-2019 Women's World Cup                   NWSL 2018                               FAWSL 2018/2019,
-
-                                                                                                                    FAWSL 2019/2020
+2019 Women's World Cup, NWSL 2018, FAWSL 2018/2019, FAWSL 2019/2020
 
 ![wwc2019.png](images/wwc2019.png)
 
@@ -53,7 +51,7 @@ Statsbomb is a soccer analytics organization that provides data science for team
 - 33 hand-selected features
 - `pass_cut_back`
 
-    ![cutback-example.png](iamges/cutback-example.png)
+    ![cutback-example.png](images/cutback-example.png)
 
 - `pass_cross`
 
